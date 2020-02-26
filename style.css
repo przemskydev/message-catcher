@@ -1,3 +1,7 @@
+body {
+    background-color: lightpink !important;
+}
+
 .params {
     min-height: 100vh;
 }
@@ -6,6 +10,15 @@
     display: none;
 }
 
+.showFeedback {
+    display: block;
+}
+
 .messageContent {
-    color: lightgreen;
+    font-size: 2rem;
+    color: rgb(114, 212, 114);
+}
+
+.messageContainer {
+    background-color: rgb(255, 232, 246);
 }
