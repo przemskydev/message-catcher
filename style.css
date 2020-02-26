@@ -1,0 +1,11 @@
+.params {
+    min-height: 100vh;
+}
+
+.feedback {
+    display: none;
+}
+
+.messageContent {
+    color: lightgreen;
+}
